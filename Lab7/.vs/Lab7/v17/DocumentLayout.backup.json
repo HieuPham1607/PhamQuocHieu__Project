@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\linetx\\DuAn\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\areas\\admins\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\admins\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\linetx\\DuAn\\Lab7\\Lab7\\Migrations\\20241118042011_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab7\\Migrations\\20241118042011_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|d:\\linetx\\duan\\lab7\\lab7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A36B375B-0A3B-499A-B54D-1CE9AB804D57}|Lab7\\Lab7.csproj|solutionrelative:lab7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Admins.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:32:21.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:25:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Lab7\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:23:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "Lab7\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:23:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lab7\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:22:15.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lab7\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:21:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241118042011_v1.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Migrations\\20241118042011_v1.cs",
+              "RelativeDocumentMoniker": "Lab7\\Migrations\\20241118042011_v1.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Migrations\\20241118042011_v1.cs",
+              "RelativeToolTip": "Lab7\\Migrations\\20241118042011_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:20:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab7\\Models\\Product.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Product.cs",
+              "RelativeToolTip": "Lab7\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:22.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab7\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab7\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab7\\Models\\Category.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Category.cs",
+              "RelativeToolTip": "Lab7\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Lab7\\Models\\Blog.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Blog.cs",
+              "RelativeToolTip": "Lab7\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:43:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductManagementContext.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\ProductManagementContext.cs",
+              "RelativeDocumentMoniker": "Lab7\\Models\\ProductManagementContext.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\ProductManagementContext.cs",
+              "RelativeToolTip": "Lab7\\Models\\ProductManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "Lab7\\Models\\Banner.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\Models\\Banner.cs",
+              "RelativeToolTip": "Lab7\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab7\\Lab7\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab7\\appsettings.json",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab7\\Lab7\\appsettings.json",
+              "RelativeToolTip": "Lab7\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T03:41:31.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

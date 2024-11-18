@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\linetx\\DuAn\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|d:\\linetx\\duan\\lab6\\lab6\\models\\netcorecrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E1F7F-D369-4A71-8BA3-D62B8F3177ED}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\netcorecrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab6\\Entities\\AppDbContext.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "Lab6\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:29:51.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6\\Program.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Lab6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:31:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\Product.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Models\\Product.cs",
+              "RelativeToolTip": "Lab6\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:24:56.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\Category.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Models\\Category.cs",
+              "RelativeToolTip": "Lab6\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:17:42.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:16:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetCoreCrudContext.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Models\\NetCoreCrudContext.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\NetCoreCrudContext.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\Models\\NetCoreCrudContext.cs",
+              "RelativeToolTip": "Lab6\\Models\\NetCoreCrudContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:08:09.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab6\\Lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab6\\appsettings.json",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab6\\Lab6\\appsettings.json",
+              "RelativeToolTip": "Lab6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T01:46:07.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
