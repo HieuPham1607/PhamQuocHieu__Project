@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Lab7.Models;
+using System.Drawing;
 
 namespace Lab7.Areas.Admins.Controllers
 {
@@ -54,15 +55,27 @@ namespace Lab7.Areas.Admins.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CategoryId,Name,Status,CreatedDate,Image,Description")] Category category)
+        public async Task<IActionResult> Create([Bind("CategoryId,Name,Status,CreatedDate,Image,Description")] Category category, IFormFile ImageFile)
         {
             if (ModelState.IsValid)
             {
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    // Lưu tệp ảnh vào thư mục wwwroot/images
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img", ImageFile.FileName);
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(stream);
+                    }
+                    category.Image = "/img/" + ImageFile.FileName; // Lưu đường dẫn ảnh
+                }
+
                 _context.Add(category);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(category);
+
         }
 
         // GET: Admins/Categories/Edit/5
@@ -78,6 +91,7 @@ namespace Lab7.Areas.Admins.Controllers
             {
                 return NotFound();
             }
+
             return View(category);
         }
 
