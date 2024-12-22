@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\linetx\\DuAn\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|d:\\linetx\\duan\\lab10\\lab10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|solutionrelative:lab10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|d:\\linetx\\duan\\lab10\\lab10customauthorize\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|solutionrelative:lab10customauthorize\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|d:\\linetx\\duan\\lab10\\lab10\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|solutionrelative:lab10\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|d:\\linetx\\duan\\lab10\\lab10customauthorize\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|solutionrelative:lab10customauthorize\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|d:\\linetx\\duan\\lab10\\lab10customauthorize\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|solutionrelative:lab10customauthorize\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|d:\\linetx\\duan\\lab10\\lab10customauthorize\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|solutionrelative:lab10customauthorize\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|d:\\linetx\\duan\\lab10\\lab10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|solutionrelative:lab10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|d:\\linetx\\duan\\lab10\\lab10customauthorize\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EA1044-4E9D-42DA-8F33-BAD69F7069F5}|Lab10CustomAuthorize\\Lab10CustomAuthorize.csproj|solutionrelative:lab10customauthorize\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|d:\\linetx\\duan\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|d:\\linetx\\duan\\lab10\\lab10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|solutionrelative:lab10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|d:\\linetx\\duan\\lab10\\lab10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A20378C9-5F76-4BCF-94A2-40619AA9CA48}|Lab10\\Lab10.csproj|solutionrelative:lab10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lab10CustomAuthorize\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Lab10CustomAuthorize\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:48:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab10\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Lab10\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:42:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab10CustomAuthorize\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab10CustomAuthorize\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:46:33.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab10CustomAuthorize\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab10CustomAuthorize\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:44:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab10CustomAuthorize\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Lab10CustomAuthorize\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:43:15.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T03:45:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab10\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:28:06.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Lab10CustomAuthorize\\Models\\Login.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10CustomAuthorize\\Models\\Login.cs",
+              "RelativeToolTip": "Lab10CustomAuthorize\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:39:19.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab10\\Program.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Program.cs",
+              "RelativeToolTip": "Lab10\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:13:13.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T03:32:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab10\\Lab10\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab10\\appsettings.json",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab10\\Lab10\\appsettings.json",
+              "RelativeToolTip": "Lab10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T03:03:49.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

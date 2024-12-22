@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\linetx\\DuAn\\Lab8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|d:\\linetx\\duan\\lab8\\lab8\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3A0449D-C683-48A2-89D1-A490352ED522}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,37 +70,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab8\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Lab8\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:04:56.954Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:25:12.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:24:51.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:06:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Lab8\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T02:02:54.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:02:54.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_SideBar.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_SideBar.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\_SideBar.cshtml",
@@ -100,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_NavBar.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_NavBar.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\_NavBar.cshtml",
@@ -112,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Admin.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_Admin.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\_Admin.cshtml",
@@ -124,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -136,56 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:52:12.62Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Program.cs",
-              "RelativeDocumentMoniker": "Lab8\\Program.cs",
-              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Program.cs",
-              "RelativeToolTip": "Lab8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:28:52.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Lab8\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Lab8\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-19T04:28:50.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Preloader.cshtml",
-              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
-              "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
-              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
-              "RelativeToolTip": "Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T04:18:52.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -197,7 +188,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:04:56.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Lab8\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:52:12.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8\\Program.cs",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Program.cs",
+              "RelativeToolTip": "Lab8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:28:52.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Lab8\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Lab8\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T04:28:50.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Preloader.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\Admin\\Views\\Shared\\_Preloader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T04:18:52.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\Lab8\\Lab8\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab8\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",

@@ -1,0 +1,94 @@
+﻿@model IEnumerable<DevXuongMoc.Models.Contact>
+
+@{
+    ViewData["Title"] = "Contacts";
+    Layout = "~/Areas/Admins/Views/Shared/_Admins.cshtml";
+}
+
+<!-- Thanh Tìm Kiếm Cố Định -->
+<div class="fixed-search bg-light p-3 shadow-sm">
+    <form class="form-inline" asp-controller="Contacts" asp-action="Index" method="get">
+        <div class="input-group input-group-sm">
+            <input class="form-control form-control-navbar" type="search" name="searchString" placeholder="Search" aria-label="Search" value="@ViewData["CurrentFilter"]">
+            <div class="input-group-append">
+                <button class="btn btn-navbar" type="submit">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<!-- Dòng kẻ dưới thanh tìm kiếm -->
+<hr class="my-4">
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <h2 class="text-primary mb-0">@ViewData["Title"]</h2>
+            <a asp-action="Create" class="btn btn-primary ml-auto">
+                <i class="fas fa-plus mr-2"></i>Create New
+            </a>
+        </div>
+
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.Title)</th>
+                            <th>@Html.DisplayNameFor(model => model.Email)</th>
+                            <th>@Html.DisplayNameFor(model => model.Phone)</th>
+                            <th>@Html.DisplayNameFor(model => model.Address)</th>
+                            <th>@Html.DisplayNameFor(model => model.Content)</th>
+                            <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+                            <th>@Html.DisplayNameFor(model => model.UpdatedDate)</th>
+                            @* <th>@Html.DisplayNameFor(model => model.AdminCreated)</th> *@
+                            @* <th>@Html.DisplayNameFor(model => model.AdminUpdated)</th> *@
+                            @* <th>@Html.DisplayNameFor(model => model.Status)</th> *@
+                            @* <th>@Html.DisplayNameFor(model => model.Isdelete)</th> *@
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Content)</td>
+                                <td>@item.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                                <td>@item.UpdatedDate?.ToString("dd/MM/yyyy")</td>
+                                @* <td>@Html.DisplayFor(modelItem => item.AdminCreated)</td> *@
+                                @* <td>@Html.DisplayFor(modelItem => item.AdminUpdated)</td> *@
+                                @* <td>@Html.DisplayFor(modelItem => item.Status)</td> *@
+                                @* <td>@Html.DisplayFor(modelItem => item.Isdelete)</td> *@
+                                <td>
+                                    <div class="btn-group" role="group">
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">
+                                            <i class="fas fa-info-circle"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                @if (!string.IsNullOrEmpty(ViewBag.Message))
+                {
+                    <div class="alert alert-warning" role="alert">
+                        @ViewBag.Message
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -3,6 +3,159 @@
     ViewData["Title"] = "Danh sách sản phẩm";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<style>
+    /* Định dạng chung */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+        margin: 0;
+        padding: 0;
+    }
+
+    h2, h3 {
+        color: #007bff;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* Định dạng giỏ hàng */
+    .home-cart {
+        padding: 20px;
+    }
+
+    .cart {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .box-cart {
+        margin-top: 20px;
+    }
+
+    .box-cart-item-box {
+        padding: 10px;
+    }
+
+    .box-cart-border-bottom {
+        border-bottom: 1px solid #ddd;
+        padding: 10px 0;
+    }
+
+    .box-cart-item {
+        display: flex;
+        align-items: center;
+    }
+
+    .box-cart-item-img {
+        width: 100px;
+        height: auto;
+        margin-right: 20px;
+    }
+
+    .box-cart-item h5 {
+        margin: 0;
+        font-size: 18px;
+        color: #333;
+    }
+
+    .box-cart-item-btn {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+        .box-cart-item-btn .btn {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            padding: 5px 10px;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+
+            .box-cart-item-btn .btn i {
+                font-size: 14px;
+            }
+
+    .qty_input {
+        width: 50px;
+        text-align: center;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+    }
+
+    .box-cart-bill {
+        margin-top: 30px;
+        padding: 20px;
+        background-color: #f1f1f1;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+        .box-cart-bill h3 {
+            margin-bottom: 20px;
+        }
+
+        .box-cart-bill p {
+            margin: 10px 0;
+            font-size: 16px;
+        }
+
+        .box-cart-bill .cart-box {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+            .box-cart-bill .cart-box .group-btn {
+                margin-top: 20px;
+            }
+
+            .box-cart-bill .cart-box .btn {
+                display: block;
+                width: 100%;
+                padding: 10px;
+                margin: 10px 0;
+                font-size: 16px;
+                color: #007bff;
+                background-color: #fff;
+                border: 2px solid #007bff;
+                border-radius: 4px;
+                text-align: center;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+                .box-cart-bill .cart-box .btn:hover {
+                    background-color: #007bff;
+                    color: #fff;
+                }
+
+    .box-cart-border-bottom .btn-action .btn {
+        background-color: #dc3545;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        padding: 5px 10px;
+        cursor: pointer;
+    }
+
+        /* Thêm dấu "X" vào nút xóa */
+        .box-cart-border-bottom .btn-action .btn.remove::after {
+            content: '✖'; /* Thêm dấu "X" */
+            font-size: 14px;
+            margin-left: 5px;
+        }
+
+</style>
 <div class="home-cart">
     <div class="row">
         <div class="col-md-12 cart ">
@@ -22,13 +175,13 @@
                                         <input type="number" class="qty_input" value="@item.Quantity" />
                                         <button class="btn qty_btn"><i class="fa fa-plus"></i></button>
                                     </div>
-                                    <p data-price="@item.Price">Giá: <span>@string.Format("{0:#,##0}",@item.Price)</span>VND</p>
-                                    <p data-money="@money" class="total-money">Thành tiền: <span id="money">@string.Format("{0:#,##0}",@money)</span>VND</p>
+                                    <p data-price="@item.Price">Giá: <span>@string.Format("{0:#,##0}", @item.Price)</span>VND</p>
+                                    <p data-money="@money" class="total-money">Thành tiền: <span id="money">@string.Format("{0:#,##0}", @money)</span>VND</p>
                                 </div>
                             </div>
                             <div class="btn-action">
-                                <a href="/carts/remove/?id=@item.Id" class="btn remove"><i class="fa-solid fa-xmark"></i></a>
-                                <a href="/carts/update/?id=@item.Id&quantity=@item.Quantity" data-id="@item.Id" data-qty="@item.Quantity" class="btn update">Cập nhật</a>
+                                <a href="/cart/remove/?id=@item.Id" class="btn remove"><i class="fa-solid fa-xmark"></i></a>
+                                <a href="/cart/update/?id=@item.Id&quantity=@item.Quantity" data-id="@item.Id" data-qty="@item.Quantity" class="btn update">Cập nhật</a>
                             </div>
                         </div>
                     }
@@ -38,7 +191,7 @@
                     <h3> Tóm tắt đơn hàng </h3>
                     <p>
                         Tổng thành tiền:<span id="totalMoney">
-                            @string.Format("{0:#,##0}",ViewBag.total)
+                            @string.Format("{0:#,##0}", ViewBag.total)
                         </span> VND
                     </p>
                     <p>
@@ -52,7 +205,7 @@
                     </p>
                     <div class="cart-box cart-layout">
                         <div>
-                            Tổng tiền :<span id="totalMoneyPay"> @string.Format("{0:#,##0}",ViewBag.total) </span> VND
+                            Tổng tiền :<span id="totalMoneyPay"> @string.Format("{0:#,##0}", ViewBag.total) </span> VND
                         </div>
                         <div class="group-btn">
                             <a href="/cart/orders" class="btn">Đặt hàng ngay</a>
@@ -67,20 +220,20 @@
 
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script>
-    $(document).ready(function(){
+    $(document).ready(function () {
         $('.qty_btn .fa-minus').click(function () {
-            let qty=parseInt($(this).parent().siblings('.qty_input').val());
+            let qty = parseInt($(this).parent().siblings('.qty_input').val());
             let price = parseFloat($(this).parent().parent().siblings('p').attr("data-price"));
-            qty -=1;
+            qty -= 1;
             let money = qty * price;
             $(this).parent().siblings('.qty_input').val(qty);
             let id = $(this).parent().parent().parent().parent().siblings('.btn-action').children('.update').attr("data-id");
-            let href="/carts/Update/?id="+id+"&quantity="+qty;
+            let href = "/cart/Update/?id=" + id + "&quantity=" + qty;
             $(this).parent().parent().parent().parent().siblings('.btn-action').children('.update').attr("href", href);
             $(this).parent().parent().siblings('p').attr("data-money", money);
             let total_money = formatMoney(money, 0, ",", ".");
             $(this).parent().parent().siblings('p').children("span#money").text(total_money);
-            let totalMoney = formatMoney(total(),0,",",".");
+            let totalMoney = formatMoney(total(), 0, ",", ".");
             $("#totalMoney").text(totalMoney);
             $("#totalMoneyPay").text(totalMoney);
         })
@@ -91,12 +244,12 @@
             let money = qty * price;
             $(this).parent().siblings('.qty_input').val(qty);
             let id = $(this).parent().parent().parent().parent().siblings('.btn-action').children('.update').attr("data-id");
-            let href="/carts/Update/?id="+id+"&quantity="+qty;
+            let href = "/cart/Update/?id=" + id + "&quantity=" + qty;
             $(this).parent().parent().parent().parent().siblings('.btn-action').children('.update').attr("href", href);
             $(this).parent().parent().siblings('p').attr("data-money", money);
             let total_money = formatMoney(money, 0, ",", ".");
             $(this).parent().parent().siblings('p').children("span#money").text(total_money);
-            let totalMoney = formatMoney(total(),0,",",".");
+            let totalMoney = formatMoney(total(), 0, ",", ".");
             $("#totalMoney").text(totalMoney);
             $("#totalMoneyPay").text(totalMoney);
         })
@@ -105,23 +258,23 @@
             let id = $(this).parent().parent().parent().siblings('.btn-action').children('.update').attr("data-id");
             let price = parseFloat($(this).parent().siblings('p').attr("data-price"));
             let money = qty * price;
-            let href = "/carts/Update/?id=" + id + "&quantity=" + qty;
+            let href = "/cart/Update/?id=" + id + "&quantity=" + qty;
             $(this).parent().parent().parent().siblings('.btn-action').children('.update').attr("href", href);
             $(this).parent().parent().siblings('p').attr("data-money", money);
             let total_money = formatMoney(money, 0, ",", ".");
             $(this).parent().siblings('p').children("span#money").text(total_money)
-            let totalMoney = formatMoney(total(),0,",",".");
+            let totalMoney = formatMoney(total(), 0, ",", ".");
             $("#totalMoney").text(totalMoney);
             $("#totalMoneyPay").text(totalMoney);
         })
 
-        function total(){
+        function total() {
             let totalMoney = 0;
-            $("p.total-money").each(function(){
+            $("p.total-money").each(function () {
                 console.log($(this));
                 console.log($(this).attr("data-money"));
                 let money = parseFloat($(this).attr("data-money"));
-                console.log("total-money",money );
+                console.log("total-money", money);
                 totalMoney += money;
             });
             return totalMoney;

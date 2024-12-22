@@ -1,0 +1,1085 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DevXuongMoc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DevXuongMoc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\Banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\Banner\\banner.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\danh-muc\\65172_400.webp",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\65172_400.webp"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\danh-muc\\icon-phong-khach.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\doi-tac\\images.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\doi-tac\\images.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\doi-tac\\marvella.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\doi-tac\\marvella.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\doi-tac\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\doi-tac\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\doi-tac\\sheraton.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\doi-tac\\sheraton.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\doi-tac\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\doi-tac\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\doi-tac\\vinpearl.png",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\doi-tac\\vinpearl.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-1.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-4.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-5.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\Content\\Uploads\\images\\tin-tuc\\tintuc-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-6.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\.editorconfig",
+      "PackagePath": "staticwebassets\\dist\\css\\.editorconfig"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\dist\\css\\style.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\logologin.png",
+      "PackagePath": "staticwebassets\\dist\\img\\logologin.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Light.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Medium.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-Bold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-Italic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-Light.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-Medium.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-Regular.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_Condensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_Condensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-Bold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-Italic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-Light.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-Medium.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-Regular.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\OpenSans_SemiCondensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\65172_400.webp",
+      "PackagePath": "staticwebassets\\images\\65172_400.webp"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\cau-thang\\019.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cau-thang\\019.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\do-trang-tri\\020.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\do-trang-tri\\020.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-bep\\004.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-bep\\004.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-bep\\009.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-bep\\009.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\001.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\001.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\001a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\001a.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\001b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\001b.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\001c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\001c.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\001d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\001d.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\001e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\001e.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\002.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\002.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\008.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\008.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\009.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\009.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\011.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\011.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\012.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\012.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\014.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\014.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-khach\\015.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-khach\\015.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-ngu\\003.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-ngu\\003.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-ngu\\004.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-ngu\\004.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-ngu\\007.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-ngu\\007.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-ngu\\013.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-ngu\\013.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-tam\\005.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-tam\\005.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-tam\\006.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-tam\\006.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-tam\\007.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-tam\\007.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\phong-tam\\008.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phong-tam\\008.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\tre-em\\016.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\tre-em\\016.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\tre-em\\017.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\tre-em\\017.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\tre-em\\018.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\tre-em\\018.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\van-phong\\018.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\van-phong\\018.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\appointment.jpg",
+      "PackagePath": "staticwebassets\\img\\appointment.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\bg-header-bottom.png",
+      "PackagePath": "staticwebassets\\img\\bg-header-bottom.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\bg-header-top.png",
+      "PackagePath": "staticwebassets\\img\\bg-header-top.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\call-to-action.jpg",
+      "PackagePath": "staticwebassets\\img\\call-to-action.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\carousel-3.png",
+      "PackagePath": "staticwebassets\\img\\carousel-3.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\carousel-4.png",
+      "PackagePath": "staticwebassets\\img\\carousel-4.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\carousel-5.png",
+      "PackagePath": "staticwebassets\\img\\carousel-5.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\carousel-6.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-6.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\classes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\classes-1.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\classes-2.jpg",
+      "PackagePath": "staticwebassets\\img\\classes-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\classes-3.jpg",
+      "PackagePath": "staticwebassets\\img\\classes-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\classes-4.jpg",
+      "PackagePath": "staticwebassets\\img\\classes-4.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\classes-5.jpg",
+      "PackagePath": "staticwebassets\\img\\classes-5.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\classes-6.jpg",
+      "PackagePath": "staticwebassets\\img\\classes-6.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DevXuongMoc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DevXuongMoc.props",
+      "PackagePath": "build\\DevXuongMoc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DevXuongMoc.props",
+      "PackagePath": "buildMultiTargeting\\DevXuongMoc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DevXuongMoc.props",
+      "PackagePath": "buildTransitive\\DevXuongMoc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

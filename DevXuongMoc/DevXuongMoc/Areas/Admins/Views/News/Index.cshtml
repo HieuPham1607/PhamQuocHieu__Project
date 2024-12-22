@@ -1,0 +1,90 @@
+﻿@model IEnumerable<DevXuongMoc.Models.News>
+
+@{
+    ViewData["Title"] = "News";
+    Layout = "~/Areas/Admins/Views/Shared/_Admins.cshtml";
+}
+
+<!-- Thanh tìm kiếm -->
+<div class="search-bar bg-light p-3 shadow-sm">
+    <form class="form-inline" asp-controller="News" asp-action="Index" method="get">
+        <div class="input-group input-group-sm">
+            <input class="form-control form-control-navbar" type="search" name="searchString" placeholder="Search News" aria-label="Search">
+            <div class="input-group-append">
+                <button class="btn btn-navbar" type="submit">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<hr class="my-4">
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <h2 class="text-primary mb-0">@ViewData["Title"]</h2>
+            <a asp-action="Create" class="btn btn-primary ml-auto">
+                <i class="fas fa-plus mr-2"></i>Create New
+            </a>
+        </div>
+
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.Code)</th>
+                            <th>@Html.DisplayNameFor(model => model.Title)</th>
+                            <th>@Html.DisplayNameFor(model => model.Image)</th>
+                            <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+                            <th>@Html.DisplayNameFor(model => model.UpdatedDate)</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Code)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(item.Image))
+                                    {
+                                        <img src="@item.Image" alt="@item.Title" class="img-thumbnail" style="width: 100px; height: auto;" />
+                                    }
+                                    else
+                                    {
+                                        <span>No Image</span>
+                                    }
+                                </td>
+                                <td>@item.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                                <td>@item.UpdatedDate?.ToString("dd/MM/yyyy")</td>
+                                <td>
+                                    <div class="btn-group" role="group">
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">
+                                            <i class="fas fa-info-circle"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                @if (!Model.Any())
+                {
+                    <div class="alert alert-warning text-center mt-3" role="alert">
+                        No news found.
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
