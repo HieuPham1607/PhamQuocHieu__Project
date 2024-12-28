@@ -25,7 +25,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             var categories = from c in _context.Categories
                              select c;
 
-            if (!String.IsNullOrEmpty(searchString))
+            if (!string.IsNullOrEmpty(searchString))
             {
                 categories = categories.Where(s => s.Title.Contains(searchString));
             }
@@ -68,10 +68,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
                 // Kiểm tra xem người dùng đã tải lên tệp hình ảnh hay chưa
                 if (imageFile != null && imageFile.Length > 0)
                 {
-                    // Xác định đường dẫn tệp và lưu ảnh
-                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Content", "Uploads","images", "danh-muc", imageFile.FileName);
-
-                    // Lưu tệp lên server
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", imageFile.FileName);
                     using (var stream = new FileStream(filePath, FileMode.Create))
                     {
                         await imageFile.CopyToAsync(stream);
@@ -109,7 +106,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         // POST: Admins/Categories/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Icon,MateTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Category category)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Icon,MateTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Category category, IFormFile imageFile)
         {
             if (id != category.Id)
             {
@@ -120,6 +117,18 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 try
                 {
+                    // Kiểm tra nếu người dùng tải lên hình ảnh mới
+                    if (imageFile != null && imageFile.Length > 0)
+                    {
+                        var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", imageFile.FileName);
+                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await imageFile.CopyToAsync(stream);
+                        }
+
+                        category.Icon = "/images/" + imageFile.FileName;
+                    }
+
                     _context.Update(category);
                     await _context.SaveChangesAsync();
                 }

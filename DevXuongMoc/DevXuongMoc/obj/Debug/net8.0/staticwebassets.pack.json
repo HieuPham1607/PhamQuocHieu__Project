@@ -525,8 +525,56 @@
       "PackagePath": "staticwebassets\\fonts\\OpenSans_SemiCondensed-SemiBoldItalic.ttf"
     },
     {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\20230503_192924.jpg",
+      "PackagePath": "staticwebassets\\images\\20230503_192924.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\4.png.jfif",
+      "PackagePath": "staticwebassets\\images\\4.png.jfif"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\5.png.png",
+      "PackagePath": "staticwebassets\\images\\5.png.png"
+    },
+    {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\65172_400.webp",
       "PackagePath": "staticwebassets\\images\\65172_400.webp"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\6d14f6d2-a954-4d15-b951-84427f55fa75.webp",
+      "PackagePath": "staticwebassets\\images\\6d14f6d2-a954-4d15-b951-84427f55fa75.webp"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\8.png.jfif",
+      "PackagePath": "staticwebassets\\images\\8.png.jfif"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\87cafe47-e711-4e4a-933e-65dd2f42d1cd.webp",
+      "PackagePath": "staticwebassets\\images\\87cafe47-e711-4e4a-933e-65dd2f42d1cd.webp"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\ble.png",
+      "PackagePath": "staticwebassets\\images\\ble.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\c11e7eb9-4f4c-4e3e-86f9-d94ddcd7ccc9.jpg",
+      "PackagePath": "staticwebassets\\images\\c11e7eb9-4f4c-4e3e-86f9-d94ddcd7ccc9.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\c17fef6d-8d7c-4ebd-accd-0581ba058f0a.jpg",
+      "PackagePath": "staticwebassets\\images\\c17fef6d-8d7c-4ebd-accd-0581ba058f0a.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\e6b98b8b-2e3b-4ae5-8ff3-d11252270324.webp",
+      "PackagePath": "staticwebassets\\images\\e6b98b8b-2e3b-4ae5-8ff3-d11252270324.webp"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\ebbf1e0b-db26-4394-af68-d65ddd0dd518.jpg",
+      "PackagePath": "staticwebassets\\images\\ebbf1e0b-db26-4394-af68-d65ddd0dd518.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\f0903eea-6798-44e8-8178-5c89cdd52bf8.webp",
+      "PackagePath": "staticwebassets\\images\\f0903eea-6798-44e8-8178-5c89cdd52bf8.webp"
     },
     {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\cau-thang\\019.jpg",
@@ -643,6 +691,10 @@
     {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\van-phong\\018.jpg",
       "PackagePath": "staticwebassets\\images\\products\\van-phong\\018.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\tải xuống (2).jpg",
+      "PackagePath": "staticwebassets\\images\\tải xuống (2).jpg"
     },
     {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\about-1.jpg",

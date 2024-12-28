@@ -37,6 +37,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th>@Html.DisplayNameFor(model => model.Title)</th>
+                            <th>@Html.DisplayNameFor(model => model.Icon)</th>
                             <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
                             <th>@Html.DisplayNameFor(model => model.UpdatedDate)</th>
                             <th>Actions</th>
@@ -47,6 +48,16 @@
                         {
                             <tr>
                                 <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(item.Icon))
+                                    {
+                                        <img src="@item.Icon" alt="@item.Title" class="img-thumbnail" style="width: 50px; height: auto;" />
+                                    }
+                                    else
+                                    {
+                                        <span>No Image</span>
+                                    }
+                                </td>
                                 <td>@item.CreatedDate?.ToString("dd/MM/yyyy")</td>
                                 <td>@item.UpdatedDate?.ToString("dd/MM/yyyy")</td>
                                 <td>

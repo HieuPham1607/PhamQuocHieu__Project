@@ -1,10 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DevXuongMoc.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace DevXuongMoc.Areas.Admins.Controllers
 {
@@ -61,10 +62,27 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         // POST: Admins/Banners/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Image,Title,SubTitle,Urls,Orders,Type,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Banner banner)
+        public async Task<IActionResult> Create([Bind("Id,Image,Title,SubTitle,Urls,Orders,Type,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Banner banner, IFormFile imageFile)
         {
             if (ModelState.IsValid)
             {
+                // Kiểm tra nếu có file hình ảnh được tải lên
+                if (imageFile != null && imageFile.Length > 0)
+                {
+                    // Đặt đường dẫn lưu trữ hình ảnh
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", imageFile.FileName);
+
+                    // Lưu hình ảnh vào thư mục images trong wwwroot
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await imageFile.CopyToAsync(stream);
+                    }
+
+                    // Lưu đường dẫn của hình ảnh vào banner
+                    banner.Image = "/images/" + imageFile.FileName;
+                }
+
+                // Thêm banner vào cơ sở dữ liệu
                 _context.Add(banner);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -91,7 +109,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         // POST: Admins/Banners/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Image,Title,SubTitle,Urls,Orders,Type,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Banner banner)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Image,Title,SubTitle,Urls,Orders,Type,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Banner banner, IFormFile imageFile)
         {
             if (id != banner.Id)
             {
@@ -102,6 +120,21 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 try
                 {
+                    // Nếu có file hình ảnh mới, cập nhật hình ảnh
+                    if (imageFile != null && imageFile.Length > 0)
+                    {
+                        var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", imageFile.FileName);
+
+                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await imageFile.CopyToAsync(stream);
+                        }
+
+                        // Cập nhật đường dẫn hình ảnh mới
+                        banner.Image = "/images/" + imageFile.FileName;
+                    }
+
+                    // Cập nhật thông tin Banner
                     _context.Update(banner);
                     await _context.SaveChangesAsync();
                 }

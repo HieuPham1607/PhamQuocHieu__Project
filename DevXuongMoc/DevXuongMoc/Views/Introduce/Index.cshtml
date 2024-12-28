@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu</title>
+    <style>
+        .headerG {
+            padding: 20px;
+            text-align: center;
+            background-image: url('img/carousel-5.png'); /* Replace with your image URL */
+            background-size: cover; /* Ensures the image fully covers the header */
+            background-position: center;
+            color: white; /* Text color */
+            position: relative;
+            height: 360px; /* Increase the height to extend the image vertically */
+            width: 113%; /* Set the width to 115% of the page width (15% wider) */
+            margin-left: -6.5%; /* Adjust the left margin to center the header */
+            margin-right: -6.5%; /* Adjust the right margin to center the header */
+        }
+
+
+
+
+            .headerG h1 {
+                font-size: 4rem;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%); /* Centers the text */
+                text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Optional: for better visibility */
+            }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .section {
+            margin-bottom: 60px;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+            .section h2 {
+                font-size: 3rem;
+                margin-bottom: 10px;
+                text-align: center;
+                display: block;
+                position: relative;
+                color: orange;
+            }
+
+                .section h2::after {
+                    content: "";
+                    display: block;
+                    margin-top: 10px;
+                    width: 60%;
+                    height: 4px;
+                    background-color: darkorange;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+
+            .section p {
+                margin-bottom: 10px;
+                text-align: left;
+                margin: 10px 0;
+            }
+
+        .split {
+            display: flex;
+            justify-content: space-between;
+        }
+
+            .split p {
+                width: 50%;
+                text-align: justify;
+                color: black;
+                font-size: 1.5rem;
+                margin: 10px 0;
+            }
+
+            .split img {
+                max-width: 48%;
+                height: auto;
+                display: block;
+            }
+    </style>
+</head>
+<body>
+    <header class="headerG">
+        <h1>Giới Thiệu</h1>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Chúng Tôi Là Ai?</h2>
+            <div class="split">
+                <img src="img/carousel-3.png" alt="Alternate Text" />
+                <p style="line-height: 1.2;">
+                    Nội thấy Hoàng Hoan được xây dựng dựa trên tình yêu, đam mê của tôi đối với nghề mộc và Khao khát mang những sản phẩm nội thất đẹp của mình đến với khách hàng thân yêu.
+                    <br />
+                    Cả một quá trình từ 1 người thợ phụ rồi được làm thợ mộc chính, tự tạo ra cho mình 1 phân xưởng nhỏ rồi dần phát triển và hiện tại Hoàng Hoan đã là một trong những công ty có dịch vụ thiết kế và thi công nội thất uy tín chất lượng với giá tốt nhất tại Hà Nội với sứ mệnh “đem đến cho khách hàng không gian nội thất hòan hảo”.
+                    <br />
+                    Hoàng Hoan luôn nỗ lực để tạo ra không gian đẹp đẹp cho khách hàng theo nhiều gam màu sắc khác nhau và phong cách đa dạng theo đúng ở sở thích, lứa tuổi và phong thủy của khách hàng.
+                </p>
+            </div>
+        </div>
+        <div class="section">
+            <h2>Sứ Mệnh Của Chúng Tôi</h2>
+            <p>Curabitur vulputate orci vel nunc eleifend, in malesuada lacus aliquet. Nullam fringilla mi in mauris varius tristique.</p>
+        </div>
+        <div class="section">
+            <h2>Giá Trị Cốt Lõi</h2>
+            <ul>
+                <li>Chất lượng</li>
+                <li>Đổi mới</li>
+                <li>Khách hàng là trung tâm</li>
+                <li>Đội ngũ chuyên nghiệp</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,9 +1,11 @@
 ﻿using System;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DevXuongMoc.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace DevXuongMoc.Areas.Admins.Controllers
 {
@@ -60,10 +62,32 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         // POST: Admins/Materials/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Icon,MetaTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Material material)
+        public async Task<IActionResult> Create([Bind("Id,Title,Icon,MetaTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Material material, IFormFile iconFile)
         {
             if (ModelState.IsValid)
             {
+                // Kiểm tra nếu có file hình ảnh được tải lên
+                if (iconFile != null && iconFile.Length > 0)
+                {
+                    // Tạo một tên file ngẫu nhiên để tránh trùng lặp
+                    var fileName = Guid.NewGuid().ToString() + Path.GetExtension(iconFile.FileName);
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", fileName);
+
+                    // Lưu hình ảnh vào thư mục uploads trong wwwroot
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await iconFile.CopyToAsync(stream);
+                    }
+
+                    // Lưu đường dẫn của hình ảnh vào Icon của Material
+                    material.Icon = "/images/" + fileName;
+                }
+
+                // Cập nhật thời gian tạo và cập nhật
+                material.CreatedDate = DateTime.Now;
+                material.UpdatedDate = DateTime.Now;
+
+                // Thêm material vào cơ sở dữ liệu
                 _context.Add(material);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -90,7 +114,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         // POST: Admins/Materials/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Icon,MetaTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Material material)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Icon,MetaTitle,MetaKeyword,MetaDescription,Slug,Orders,Parentid,CreatedDate,UpdatedDate,AdminCreated,AdminUpdated,Notes,Status,Isdelete")] Material material, IFormFile iconFile)
         {
             if (id != material.Id)
             {
@@ -101,6 +125,26 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 try
                 {
+                    // Kiểm tra nếu có file hình ảnh mới được tải lên
+                    if (iconFile != null && iconFile.Length > 0)
+                    {
+                        var fileName = Guid.NewGuid().ToString() + Path.GetExtension(iconFile.FileName);
+                        var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", fileName);
+
+                        // Lưu hình ảnh vào thư mục uploads trong wwwroot
+                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await iconFile.CopyToAsync(stream);
+                        }
+
+                        // Cập nhật đường dẫn hình ảnh mới
+                        material.Icon = "/images/" + fileName;
+                    }
+
+                    // Cập nhật thời gian sửa đổi
+                    material.UpdatedDate = DateTime.Now;
+
+                    // Cập nhật thông tin vào cơ sở dữ liệu
                     _context.Update(material);
                     await _context.SaveChangesAsync();
                 }
