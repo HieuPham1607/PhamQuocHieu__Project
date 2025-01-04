@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\linetx\\DuAn\\DevXuongMoc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|d:\\linetx\\duan\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|d:\\linetx\\duan\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|d:\\linetx\\duan\\devxuongmoc\\devxuongmoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|d:\\linetx\\duan\\devxuongmoc\\devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|d:\\linetx\\duan\\devxuongmoc\\devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|d:\\linetx\\duan\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1E9D9EB-CC13-4AF6-A38A-BE09BF10DC13}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T04:36:19.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAwHEBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-02T04:22:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-02T04:16:04.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fonts.css",
+              "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-02T04:15:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T04:22:53.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Introduce\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Introduce\\Index.cshtml",
               "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Introduce\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Introduce\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T01:45:35.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T01:45:19.292Z",
               "EditorCaption": ""

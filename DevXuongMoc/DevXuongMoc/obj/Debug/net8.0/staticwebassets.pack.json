@@ -777,6 +777,10 @@
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tamnhin.jpg",
+      "PackagePath": "staticwebassets\\img\\tamnhin.jpg"
+    },
+    {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team-1.jpg"
     },

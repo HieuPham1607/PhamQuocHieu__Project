@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MJg5XhvqWhejauoK79XsHSg8PRTTdifMGBVMyMvLzEQ=",
+  "Hash": "HLU+8GSGM2MopqDXXsct+0QOSR4TV+LuOJ/PR08pI1Y=",
   "Source": "DevXuongMoc",
   "BasePath": "_content/DevXuongMoc",
   "Mode": "Default",
@@ -3720,6 +3720,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tamnhin.jpg",
+      "SourceId": "DevXuongMoc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\",
+      "BasePath": "_content/DevXuongMoc",
+      "RelativePath": "img/tamnhin.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tamnhin.jpg"
     },
     {
       "Identity": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\team-1.jpg",
