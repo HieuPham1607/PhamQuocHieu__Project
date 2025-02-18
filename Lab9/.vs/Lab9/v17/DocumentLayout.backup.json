@@ -171,8 +171,7 @@
               "RelativeToolTip": "Lab9\\Areas\\Admin\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T04:58:43.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:58:43.966Z"
             },
             {
               "$type": "Document",
@@ -220,8 +219,7 @@
               "RelativeToolTip": "Lab9\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:04:05.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:04:05.826Z"
             },
             {
               "$type": "Document",
@@ -231,7 +229,7 @@
               "RelativeDocumentMoniker": "Lab9\\Views\\Product\\Index.cshtml",
               "ToolTip": "D:\\linetx\\DuAn\\Lab9\\Lab9\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Lab9\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-03T03:08:01.568Z",
               "EditorCaption": ""
@@ -415,6 +413,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-03T02:17:17.487Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

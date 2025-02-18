@@ -1,0 +1,165 @@
+﻿@{
+    ViewData["Title"] = "Đối tác";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+ /* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+.box-content {
+    padding: 3rem 0;
+}
+
+/* Banner Section */
+.banner-page {
+    position: relative;
+    text-align: center;
+}
+
+.banner-page__image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.banner-page__title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1.5rem 3rem;
+    text-align: center;
+}
+
+
+.banner-page__title h1 {
+    color: #bd945f;
+    font-size: 4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Partner Section */
+.partner1 .container1 {
+    max-width: 1100px;
+    margin: auto;
+    padding: 2rem 1rem;
+}
+
+.box1 {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 2.5rem;
+}
+
+.row1 {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 2rem 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.row1:last-child {
+    border-bottom: none;
+}
+
+.imgs img {
+    max-width: 180px;
+    height: auto;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border-radius: 8px;
+}
+
+.imgs img:hover {
+    transform: scale(1.12);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.text1 {
+    flex: 1;
+}
+
+.text1 h3 {
+    color: #bd945f;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+}
+
+.text1 p {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.7;
+}
+</style>
+<div class="box-content">
+    <section class="banner">
+        <div class="banner-page">
+            <div class="banner-page__image"><img src="img/DOITAC.jpg" alt="đối tác"></div>
+            <div class="banner-page__title">
+                <img src="img/anhcat/logo3.png" alt="">
+                <h1>Đối tác</h1>
+            </div>
+        </div>
+    </section>
+
+    <section class="partner1">
+        <div class="container1">
+            <div class="box1">
+                <div class="row1" style="padding-top: 5rem;">
+                    <div class="imgs">
+                        <img src="img/vinpearl.png" alt="">
+                    </div>
+                    <div class="text1">
+                        <h3><b>CÔNG TY CỔ PHẦN VINPEARL</b></h3>
+                        <p>Vinpearl là  thương hiệu dịch vụ du lịch nghỉ dưỡng - giải trí lớn nhất Việt Nam. Vinpearl sở hữu chuỗi khách sạn, resort và trung tâm hội nghị đẳng cấp 5 sao, các khu vui chơi giải trí quốc tế toạ lạc tại những danh thắng du lịch nổi tiếng nhất của Việt Nam.</p>
+                    </div>
+                </div>
+                <div class="row1">
+                    <div class="imgs">
+                        <img src="img/muong-thanh.jpg" alt="">
+                    </div>
+                    <div class="text1">
+                        <h3><b>TẬP ĐOÀN KHÁCH SẠN MƯỜNG THANH</b></h3>
+                        <p>Tại Mường Thanh, chúng tôi mời bạn cùng khởi hành chuyến đi tìm về không gian thanh thản chứa đựng những nét văn hoá mang đậm chất tình thân bản sắc Việt, nơi con ng gắn kết và thân ái gửi trao nhau tình cảm chân thành.</p>
+                    </div>
+                </div>
+                <div class="row1">
+                    <div class="imgs">
+                        <img src="img/sheraton.png" alt="">
+                    </div>
+                    <div class="text1">
+                        <h3><b>SHERATON HANOI HOTEL</b></h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, repellat similique architecto, ex rerum quos laudantium doloremque impedit sunt provident et ducimus culpa quibusdam magni magnam eos. Blanditiis, quasi soluta!</p>
+                    </div>
+                </div>
+                <div class="row1">
+                    <div class="imgs">
+                        <img src="img/the-coffee-house.jpg" alt="">
+                    </div>
+                    <div class="text1">
+                        <h3><b>THE COFFEE  HOUSE</b></h3>
+                        <p>Tại The Coffee House, chúng tôi luôn trân trọng những câu chuyện và đề cao giá trị kết nối con người. Chúng tôi mong muốn The Coffee House sẽ trở thành "Nhà Cà Phê", nơi mọi người xích lại gần nhau và tìm thấy niềm vui, sự sẻ chia thân tình bên những tách cà phê đượm hương, chất lượng.</p>
+                    </div>
+                </div>
+                <div class="row1">
+                    <div class="imgs">
+                        <img src="img/marvella.png" alt="">
+                    </div>
+                    <div class="text1">
+                        <h3><b>MARVELLA HOTEL NHA TRANG</b></h3>
+                        <p>Marvella là một khách sạn 4 sao mới xây dựng theo phong cách tân cổ điển, sang trọng.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

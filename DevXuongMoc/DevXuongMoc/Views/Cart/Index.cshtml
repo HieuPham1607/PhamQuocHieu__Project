@@ -1,0 +1,164 @@
+﻿@model IEnumerable<DevXuongMoc.Models.Cart>
+@{
+    ViewData["Title"] = "Giỏ hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    input {
+        outline: none !important; /* Tắt outline */
+        border: none !important; /* Tắt border */
+        box-shadow: none !important; /* Tắt shadow nếu có */
+    }
+
+        input[type="number"]::-webkit-inner-spin-button,
+        input[type="number"]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+</style>
+
+<div class="container-fluid mt-3 mb-3">
+    <div class="row">
+        <div class="col-md-12 cart">
+            <div class="container py-4">
+                <h2 class="text-center text-secondary font-weight-bold border-bottom pb-2">GIỎ HÀNG</h2>
+            </div>
+            <div class="box-cart">
+                <div class="box-cart-item-box">
+                    @if (!Model.Any())
+                    {
+                        <div class="alert alert-warning text-center" role="alert">
+                            Giỏ hàng của bạn đang trống.
+                            <a asp-controller="Product" asp-action="Index">
+                                <p style="color:blue">bấm vào đây để mua hàng</p>
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        @foreach (var item in Model)
+                        {
+                            var money = item.Price * item.Quantity;
+                            <div class="box-cart-border-bottom d-flex justify-content-between align-items-center">
+                                <div class="box-cart-item d-flex justify-content-start align-items-center">
+                                    <img src="@item.Image.Replace("/images", "/products")" alt="@item.Name" class="box-cart-item-img" width="100" />
+                                    <div class="d-flex flex-column  ms-3">
+                                        <h5 class="fw-bold">@item.Name</h5>
+                                        <div class="box-cart-item-btn d-flex align-items-center">
+                                            <button class="btn btn-sm btn-outline-secondary qty_btn">
+                                                <i class="fa fa-minus"></i>
+                                            </button>
+                                            <input type="number" class="qty_input form-control form-control-sm w-25 text-center" value="@item.Quantity" />
+
+                                            <button class="btn btn-sm btn-outline-secondary qty_btn">
+                                                <i class="fa fa-plus"></i>
+                                            </button>
+                                        </div>
+                                        <p>
+                                        <p data-price="@item.Price">Giá: <span>@string.Format("{0:#,##0}", @item.Price)</span> VND</p>
+                                        <p data-money="@money" class="total-money">Thành tiền: <span id="money">@string.Format("{0:#,##0}", @money)</span> VND</p>
+                                    </div>
+                                </div>
+                                <div class="btn-action">
+                                    <a href="/cart/remove/?id=@item.Id" class="btn remove">
+                                        <i class="fa-solid fa-xmark"></i>
+                                    </a>
+                                    <a href="/cart/update/?id=@item.Id&quantity=@item.Quantity" data-id="@item.Id" data-qty="@item.Quantity"
+                                       class="btn update">Cập nhật</a>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+                @if (Model.Any())
+                {
+                    <div class="box-cart-bill">
+
+                        <h3 class="mb-4"> Tóm tắt đơn hàng </h3>
+                        <p class="mb-2">
+                            <strong>Tổng thành tiền:</strong>
+                            <span id="totalMoney" class="fw-bold">@string.Format("{0:#,##0}", ViewBag.total)</span> VND
+                        </p>
+                        <p class="mb-2">
+                            <strong>Phí vận chuyển:</strong>
+                            <span class="ship-money text-success">Free Ship</span><br>
+                            <small class="text-muted">(Miễn phí vận chuyển với đơn hàng trên 10 triệu)</small>
+                        </p>
+                        <p class="mb-4">
+                            <strong>Thông tin vận chuyển:</strong> Sản phẩm sẽ được Hoàng Hoan giao trong vòng 2-7 ngày.<br>
+                            <strong>Chi tiết liên hệ:</strong> <a href="tel:0978611889" class="text-primary">0978 611 889</a>
+                        </p>
+                        <div class="cart-box cart-layout border p-3 rounded">
+                            <div class="d-flex justify-content-between mb-3">
+                                <strong>Tổng tiền:</strong>
+                                <span id="totalMoneyPay" class="fw-bold">@string.Format("{0:#,##0}", ViewBag.total)</span> VND
+                            </div>
+                            <div class="d-flex justify-content-between">
+                                <a href="/cart/orders" class="btn btn-primary active">Đặt hàng ngay</a>
+                                <a asp-controller="Product" asp-action="Index" class="btn">Tiếp tục mua hàng</a>
+
+                            </div>
+                        </div>
+
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".qty_btn").click(function (e) {
+            e.preventDefault();
+            var button = $(this);
+            var input = button.siblings(".qty_input");
+            var currentQty = parseInt(input.val());
+            var newQty = currentQty;
+
+            if (button.find("i").hasClass("fa-plus")) {
+                newQty += 1;
+            } else if (button.find("i").hasClass("fa-minus") && currentQty > 1) {
+                newQty -= 1;
+            }
+
+            input.val(newQty);
+            updateCart(button.closest(".box-cart-border-bottom"), newQty);
+        });
+
+        $(".qty_input").change(function () {
+            var input = $(this);
+            var newQty = parseInt(input.val());
+            if (isNaN(newQty) || newQty < 1) {
+                input.val(1);
+                newQty = 1;
+            }
+            updateCart(input.closest(".box-cart-border-bottom"), newQty);
+        });
+
+        function updateCart(cartItem, newQty) {
+            var price = parseFloat(cartItem.find("[data-price]").attr("data-price"));
+            var newTotal = price * newQty;
+
+            cartItem.find(".total-money span").text(newTotal.toLocaleString() + " VND");
+
+            // Cập nhật tổng tiền giỏ hàng
+            var totalMoney = 0;
+            $(".total-money span").each(function () {
+                totalMoney += parseFloat($(this).text().replace(/,/g, ""));
+            });
+
+            $("#totalMoney, #totalMoneyPay").text(totalMoney.toLocaleString() + " VND");
+        }
+
+        // Cập nhật giỏ hàng khi bấm nút "Cập nhật"
+        $(".update").click(function (e) {
+            e.preventDefault();
+            var button = $(this);
+            var id = button.attr("data-id");
+            var quantity = button.closest(".box-cart-border-bottom").find(".qty_input").val();
+            window.location.href = `/cart/update/?id=${id}&quantity=${quantity}`;
+        });
+    });
+</script>

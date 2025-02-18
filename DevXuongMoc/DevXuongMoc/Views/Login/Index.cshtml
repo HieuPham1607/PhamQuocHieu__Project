@@ -1,0 +1,109 @@
+﻿@model IEnumerable<DevXuongMoc.Models.Customer>
+@{
+    ViewData["Title"] = "TRANG ĐĂNG NHẬP";
+}
+
+<style>
+    form {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background: #f8f9fa;
+        padding: 1rem;
+    }
+
+    .toggle-password {
+        cursor: pointer;
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 10;
+    }
+</style>
+
+<div class="container mt-4">
+    @if (TempData["successRegisty"] != null)
+    {
+        <div class="alert alert-success">@TempData["successRegisty"]</div>
+    }
+    @if (TempData["errorRegisty"] != null)
+    {
+        <div class="alert alert-danger">@TempData["errorRegisty"]</div>
+    }
+    @if (TempData["errorLogin"] != null)
+    {
+        <div class="alert alert-danger">@TempData["errorLogin"]</div>
+    }
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h2>ĐĂNG NHẬP</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Login" asp-controller="Login" method="post">
+                        <div class="mb-3">
+                            <label>Email hoặc Username</label>
+                            <input type="text" class="form-control" name="UserOrEmail" required>
+                        </div>
+                        <div class="mb-3 position-relative">
+                            <label>Password</label>
+                            <input type="password" class="form-control" name="Password" id="loginPassword" required>
+                            <span class="toggle-password" onclick="togglePassword('loginPassword', 'toggleIconLogin')">
+                                <i id="toggleIconLogin" class="fas fa-eye-slash"></i>
+                            </span>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Đăng nhập</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h2>ĐĂNG KÝ</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Registy" asp-controller="Login" method="post">
+                        <div class="mb-3">
+                            <label>Name</label>
+                            <input type="text" class="form-control" name="Name" required>
+                        </div>
+                        <div class="mb-3">
+                            <label>Username</label>
+                            <input type="text" class="form-control" name="Username" required>
+                        </div>
+                        <div class="mb-3">
+                            <label>Email</label>
+                            <input type="email" class="form-control" name="Email" required>
+                        </div>
+                        <div class="mb-3 position-relative">
+                            <label>Password</label>
+                            <input type="password" class="form-control" name="Password" id="registerPassword" required>
+                            <span class="toggle-password" onclick="togglePassword('registerPassword', 'toggleIconRegister')">
+                                <i id="toggleIconRegister" class="fas fa-eye-slash"></i>
+                            </span>
+                        </div>
+                        <button type="submit" class="btn btn-success btn-block">Đăng ký</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function togglePassword(inputId, iconId) {
+        const passwordInput = document.getElementById(inputId);
+        const toggleIcon = document.getElementById(iconId);
+        if (passwordInput.type === 'password') {
+            passwordInput.type = 'text';
+            toggleIcon.classList.remove('fa-eye-slash');
+            toggleIcon.classList.add('fa-eye');
+        } else {
+            passwordInput.type = 'password';
+            toggleIcon.classList.remove('fa-eye');
+            toggleIcon.classList.add('fa-eye-slash');
+        }
+    }
+</script>

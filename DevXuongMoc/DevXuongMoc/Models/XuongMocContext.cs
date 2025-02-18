@@ -21,9 +21,13 @@ public partial class XuongMocContext : DbContext
 
     public virtual DbSet<Banner> Banners { get; set; }
 
+    public virtual DbSet<Cart> Carts { get; set; }
+
     public virtual DbSet<Category> Categories { get; set; }
 
     public virtual DbSet<Contact> Contacts { get; set; }
+
+    public virtual DbSet<Customer> Customers { get; set; }
 
     public virtual DbSet<Extension> Extensions { get; set; }
 
@@ -35,7 +39,13 @@ public partial class XuongMocContext : DbContext
 
     public virtual DbSet<News> News { get; set; }
 
+    public virtual DbSet<Order> Orders { get; set; }
+
+    public virtual DbSet<OrderDetail> OrderDetails { get; set; }
+
     public virtual DbSet<Partner> Partners { get; set; }
+
+    public virtual DbSet<PaymentMethod> PaymentMethods { get; set; }
 
     public virtual DbSet<Product> Products { get; set; }
 
@@ -49,7 +59,7 @@ public partial class XuongMocContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=DESKTOP-DP7G7UH\\SQLEXPRESS;Database=XuongMoc;uid=sa;pwd=12345a.;MultipleActiveResultSets=True;TrustServerCertificate=True ");
+        => optionsBuilder.UseSqlServer("Server=DESKTOP-DP7G7UH\\SQLEXPRESS;Database=XuongMoc;uid=sa;pwd=12345a.;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -203,6 +213,15 @@ public partial class XuongMocContext : DbContext
                 .HasColumnName("URLS");
         });
 
+        modelBuilder.Entity<Cart>(entity =>
+        {
+            entity.ToTable("Cart");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Price).HasColumnType("decimal(18, 0)");
+            entity.Property(e => e.Total).HasColumnType("decimal(18, 0)");
+        });
+
         modelBuilder.Entity<Category>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__PRODUCT___A88186B13985BFD1");
@@ -289,6 +308,46 @@ public partial class XuongMocContext : DbContext
             entity.Property(e => e.UpdatedDate)
                 .HasColumnType("datetime")
                 .HasColumnName("UPDATED_DATE");
+        });
+
+        modelBuilder.Entity<Customer>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Customer__3214EC2710D9DA7A");
+
+            entity.ToTable("Customer");
+
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Address)
+                .HasMaxLength(500)
+                .HasColumnName("ADDRESS");
+            entity.Property(e => e.Avatar)
+                .HasMaxLength(250)
+                .HasColumnName("AVATAR");
+            entity.Property(e => e.CreatedBy).HasColumnName("CREATED_BY");
+            entity.Property(e => e.CreatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("CREATED_DATE");
+            entity.Property(e => e.Email)
+                .HasMaxLength(150)
+                .HasColumnName("EMAIL");
+            entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
+            entity.Property(e => e.Name)
+                .HasMaxLength(250)
+                .HasColumnName("NAME");
+            entity.Property(e => e.Password)
+                .HasMaxLength(320)
+                .HasColumnName("PASSWORD");
+            entity.Property(e => e.Phone)
+                .HasMaxLength(50)
+                .HasColumnName("PHONE");
+            entity.Property(e => e.UpdatedBy).HasColumnName("UPDATED_BY");
+            entity.Property(e => e.UpdatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("UPDATED_DATE");
+            entity.Property(e => e.Username)
+                .HasMaxLength(50)
+                .HasColumnName("USERNAME");
         });
 
         modelBuilder.Entity<Extension>(entity =>
@@ -550,6 +609,72 @@ public partial class XuongMocContext : DbContext
             entity.Property(e => e.Views).HasColumnName("VIEWS");
         });
 
+        modelBuilder.Entity<Order>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Orders__3214EC2702CFB7C8");
+
+            entity.Property(e => e.Id)
+                .ValueGeneratedNever()
+                .HasColumnName("ID");
+            entity.Property(e => e.Address)
+                .HasMaxLength(500)
+                .HasColumnName("ADDRESS");
+            entity.Property(e => e.Email)
+                .HasMaxLength(150)
+                .HasColumnName("EMAIL");
+            entity.Property(e => e.Idcustomer).HasColumnName("IDCUSTOMER");
+            entity.Property(e => e.Idorders).HasColumnName("IDORDERS");
+            entity.Property(e => e.Idpayment).HasColumnName("IDPAYMENT");
+            entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
+            entity.Property(e => e.NameReciever)
+                .HasMaxLength(250)
+                .HasColumnName("NAME_RECIEVER");
+            entity.Property(e => e.Notes)
+                .HasColumnType("ntext")
+                .HasColumnName("NOTES");
+            entity.Property(e => e.OrdersDate)
+                .HasColumnType("datetime")
+                .HasColumnName("ORDERS_DATE");
+            entity.Property(e => e.Phone)
+                .HasMaxLength(50)
+                .HasColumnName("PHONE");
+            entity.Property(e => e.TotalMoney)
+                .HasColumnType("decimal(18, 0)")
+                .HasColumnName("TOTAL_MONEY");
+
+            entity.HasOne(d => d.IdcustomerNavigation).WithMany(p => p.Orders)
+                .HasForeignKey(d => d.Idcustomer)
+                .HasConstraintName("FK_Orders_Customer");
+        });
+
+        modelBuilder.Entity<OrderDetail>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__OrderDet__3214EC270B86E2BE");
+
+            entity.Property(e => e.Id)
+                .ValueGeneratedNever()
+                .HasColumnName("ID");
+            entity.Property(e => e.Idorder).HasColumnName("IDORDER");
+            entity.Property(e => e.Idproduct).HasColumnName("IDPRODUCT");
+            entity.Property(e => e.Price)
+                .HasColumnType("decimal(18, 0)")
+                .HasColumnName("PRICE");
+            entity.Property(e => e.Qty).HasColumnName("QTY");
+            entity.Property(e => e.ReturnQty).HasColumnName("RETURN_QTY");
+            entity.Property(e => e.Total)
+                .HasColumnType("decimal(18, 0)")
+                .HasColumnName("TOTAL");
+
+            entity.HasOne(d => d.IdorderNavigation).WithMany(p => p.OrderDetails)
+                .HasForeignKey(d => d.Idorder)
+                .HasConstraintName("FK_OrderDetails_Orders");
+
+            entity.HasOne(d => d.IdproductNavigation).WithMany(p => p.OrderDetails)
+                .HasForeignKey(d => d.Idproduct)
+                .HasConstraintName("FK_OrderDetails_PRODUCT");
+        });
+
         modelBuilder.Entity<Partner>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__PARTNER__3214EC27D3D1ADF3");
@@ -591,6 +716,29 @@ public partial class XuongMocContext : DbContext
             entity.Property(e => e.Url)
                 .HasMaxLength(255)
                 .HasColumnName("URL");
+        });
+
+        modelBuilder.Entity<PaymentMethod>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToTable("PAYMENT_METHOD");
+
+            entity.Property(e => e.CreatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("CREATED_DATE");
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Isactive).HasColumnName("ISACTIVE");
+            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
+            entity.Property(e => e.Name)
+                .HasMaxLength(250)
+                .HasColumnName("NAME");
+            entity.Property(e => e.Notes)
+                .HasColumnType("ntext")
+                .HasColumnName("NOTES");
+            entity.Property(e => e.UpdatedDate)
+                .HasColumnType("datetime")
+                .HasColumnName("UPDATED_DATE");
         });
 
         modelBuilder.Entity<Product>(entity =>

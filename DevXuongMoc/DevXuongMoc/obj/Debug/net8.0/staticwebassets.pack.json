@@ -65,6 +65,414 @@
       "PackagePath": "staticwebassets\\Content\\Uploads\\images\\tin-tuc\\tintuc-6.jpg"
     },
     {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\css\\main.css",
+      "PackagePath": "staticwebassets\\css2\\css\\main.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\css\\util.css",
+      "PackagePath": "staticwebassets\\css2\\css\\util.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css2\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css2\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\css2\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\css2\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\js\\main.js",
+      "PackagePath": "staticwebassets\\css2\\js\\main.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\css2\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css2\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\css2\\vendor\\select2\\select2.min.js"
+    },
+    {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -697,6 +1105,26 @@
       "PackagePath": "staticwebassets\\images\\tải xuống (2).jpg"
     },
     {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\DOITAC.jpg",
+      "PackagePath": "staticwebassets\\img\\DOITAC.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\New-01.jpg",
+      "PackagePath": "staticwebassets\\img\\New-01.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\New-02.jpg",
+      "PackagePath": "staticwebassets\\img\\New-02.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\New-05.jpg",
+      "PackagePath": "staticwebassets\\img\\New-05.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\New-06.jpg",
+      "PackagePath": "staticwebassets\\img\\New-06.jpg"
+    },
+    {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\about-1.jpg",
       "PackagePath": "staticwebassets\\img\\about-1.jpg"
     },
@@ -777,6 +1205,18 @@
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\marvella.png",
+      "PackagePath": "staticwebassets\\img\\marvella.png"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\muong-thanh.jpg",
+      "PackagePath": "staticwebassets\\img\\muong-thanh.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\sheraton.png",
+      "PackagePath": "staticwebassets\\img\\sheraton.png"
+    },
+    {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tamnhin.jpg",
       "PackagePath": "staticwebassets\\img\\tamnhin.jpg"
     },
@@ -805,8 +1245,16 @@
       "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
     },
     {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\the-coffee-house.jpg",
+      "PackagePath": "staticwebassets\\img\\the-coffee-house.jpg"
+    },
+    {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\vinpearl.png",
+      "PackagePath": "staticwebassets\\img\\vinpearl.png"
     },
     {
       "Id": "D:\\linetx\\DuAn\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\main.js",
